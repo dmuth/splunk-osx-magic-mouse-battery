@@ -1,12 +1,9 @@
-# Splunk Network Monitor
+# Splunk OSX Magic Mouse Battery
 
+A Splunk App to monitor the battery level on your Apple Magic Mouse.
 
-A Splunk app to monitor your Internet connection
-
-
-**tl;dr** Keep track of your Internet connection and get pretty graphs like these:
-
-![Short Term Network Report](./img/short-term-network-report.png) ![Long Term Network Report](./img/long-term-network-report.png)
+I wrote this app shortly after switching from a wired mouse to a Magic Mouse, and
+wanted to see how quickly my battery levels dropped. (yeah, I'm kind of a nerd, I know)
 
 
 ## What's Splunk?
