@@ -39,7 +39,7 @@ If you are already running Splunk natively on your machine, you can skip straigh
 
 ## Usage
 
-For now, query `index=main sourcetype=osx-magic-mouse`.
+For now, query `index=main sourcetype=osx-magic-mouse-battery-level`.
 
 Graphs will follow in a future release.
 
