@@ -5,6 +5,8 @@ A Splunk App to monitor the battery level on your Apple Magic Mouse.
 I wrote this app shortly after switching from a wired mouse to a Magic Mouse, and
 wanted to see how quickly my battery levels dropped. (yeah, I'm kind of a nerd, I know)
 
+![image](img/splunk-apple-magic-mouse-battery-levels.png)
+
 
 ## What's Splunk?
 
